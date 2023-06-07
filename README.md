@@ -28,7 +28,7 @@ cd network-protocol
 3. Assemble the NASM source file using the following command:
 
 ```shell
-nasm -f elf protocol.asm -o protocol.o
+nasm -f elf network_protocol.asm -o protocol.o
 ```
 
 4. Link the object file using the following command:
@@ -45,7 +45,7 @@ ld protocol.o -o protocol
 
 ## Customization
 
-Feel free to modify the NASM source code (protocol.asm) to experiment with different messages or add more functionality. However, please remember that this project is meant for educational purposes, and any modifications should be made with that in mind.
+Feel free to modify the NASM source code (network_protocol.asm) to experiment with different messages or add more functionality. However, please remember that this project is meant for educational purposes, and any modifications should be made with that in mind.
 
 ## License
 
