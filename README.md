@@ -16,13 +16,13 @@ To run this project, you need the following:
 1. Clone this repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/simple-network-protocol-nasm.git
+git clone https://github.com/Aganow/Network-Protocol.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-cd simple-network-protocol-nasm
+cd network-protocol
 ```
 
 3. Assemble the NASM source file using the following command:
